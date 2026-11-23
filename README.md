@@ -4,11 +4,7 @@ Web game inspired by [Nerdle](https://nerdlegame.com/), the maths version of Wor
 
 Built with **Java (Jakarta Servlets + JSP)**, **JavaScript** and **MariaDB**, as a team project for the Computer Engineering degree at the University of Córdoba.
 
-## Screenshots
-
-| Game modes and previous days | Global ranking | Colour themes |
-| --- | --- | --- |
-| ![Game mode selection](docs/screenshot-modes.png) | ![Global ranking](docs/screenshot-ranking.png) | ![Theme customisation](docs/screenshot-themes.png) |
+![Game screen](docs/screenshot-game.png)
 
 ## Features
 
@@ -22,6 +18,12 @@ Built with **Java (Jakarta Servlets + JSP)**, **JavaScript** and **MariaDB**, as
 - **Message board** where players can post comments.
 - **Four colour themes** (light, dark, blue and green), saved in each user's profile.
 - **Tutorial** explaining how to play.
+
+## Screenshots
+
+| Game modes and previous days | Global ranking | Colour themes |
+| --- | --- | --- |
+| ![Game mode selection](docs/screenshot-modes.png) | ![Global ranking](docs/screenshot-ranking.png) | ![Theme customisation](docs/screenshot-themes.png) |
 
 ## Architecture
 
