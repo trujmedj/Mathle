@@ -42,11 +42,11 @@ These steps are for Linux (Ubuntu/Debian).
 
 1. **Install MariaDB and create the database.** The script installs MariaDB, sets a local `root` password (`1234`, for local development only) and creates the `mathle` database:
    ```bash
-   sudo ./instalar_bbdd.sh
+   sudo bash instalar_bbdd.sh
    ```
 2. **Load the sample data** (tables, daily problems and demo users):
    ```bash
-   sudo ./importar_bbdd.sh
+   sudo bash importar_bbdd.sh
    ```
 3. **Build the project** with Maven:
    ```bash
